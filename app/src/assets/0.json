@@ -1,0 +1,19 @@
+{
+  "name": "NATRUAL_0",
+  "symbol": "NAT0",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "ATc5VDH1ApJ3ALrbeyVzYF5McYo7fSrqs2nfXyA96tbC",
+        "share": 100
+      }
+    ]
+  }
+}
